@@ -8,5 +8,5 @@
    cd ~
    git clone https://github.com/vvash94/MangersSession.git
    cd ManagersSession
-3. Enter the email from which mails have to be sent in place of <<ENTER EMAIL ID HERE>>
+3. Enter the email from which mails have to be sent in place of \<\<ENTER EMAIL ID HERE>>
 4.
