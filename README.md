@@ -29,3 +29,16 @@
    
    python launch_ec2.py
    
+# Run Account creation script
+
+1. Login to the EC2 machine using putty:
+   
+   Put in the ip address.
+   
+   Put in key file in SSH > Auth
+   
+2. cd ManagersSession
+   
+   Enter the emails one per line
+   
+   python account-create.py
