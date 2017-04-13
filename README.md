@@ -1,4 +1,4 @@
-# MangersSession
+# Launch EC2 using script
 
 1. If you are not a linux machine, please create an EC2 Ubuntu 16.04 machine for yourself.
 2. Login to the Ubuntu machine. Then run the following:
