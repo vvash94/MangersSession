@@ -29,6 +29,7 @@
    
    python launch_ec2.py
    
+   
 # Run Account creation script
 
 1. Login to the EC2 machine using putty:
