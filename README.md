@@ -25,7 +25,7 @@
 
 4. Run the following:
    
-   cd ManagersSession
+   cd MangersSession
    
    python launch_ec2.py
    
@@ -37,7 +37,7 @@
    
    Put in key file in SSH > Auth
    
-2. cd ManagersSession
+2. cd MangersSession
    
    vi emails
    
