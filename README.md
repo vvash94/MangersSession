@@ -11,3 +11,25 @@
    
    cd ~
    
+   git clone https://github.com/vvash94/MangersSession.git
+   
+   cd ManagersSession
+   
+   cp .boto ~
+   
+   cd ~
+   
+   vi .boto
+   
+3. Fill the access id and secret key obtained from IAM without quotes or spaces.
+
+4. Run the following:
+   
+   cd ManagersSession
+   
+   vi launch_ec2.py
+
+5. Fill in the varaiables marked with <<>>
+
+6. Run: python launch_ec2.py
+   
