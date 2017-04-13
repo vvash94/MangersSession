@@ -11,14 +11,3 @@
    
    cd ~
    
-   git clone https://github.com/vvash94/MangersSession.git
-   
-   cd ManagersSession
-
-3. Open the file "account-create.py" in the vi editor
-4. Enter the email from which mails have to be sent in place of \<\<ENTER EMAIL ID HERE>>
-5. Open the file "emails" in the vi editor
-6. Enter the email ids of the participants. Each on a single line.
-7. Open the file "password" in the vi editor
-8. Please make sure your screen is not shared before you do this step. Enter your password in the file.
-9. Run: python account-create.py
