@@ -13,7 +13,7 @@
    
    git clone https://github.com/vvash94/MangersSession.git
    
-   cd ManagersSession
+   cd MangersSession
    
    cp .boto ~
    
