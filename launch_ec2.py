@@ -1,12 +1,12 @@
 import boto.ec2
 import time
 
-ami_id = "<<AMI ID>>"
-private_key = "<<Private Key>>"
-instance_type = "<<Instance Type>>"
-subnet_id = "<<Subnet to launch the instance in>>"
-instance_name = "<<Name of the instance>>"
-region_name = "<<Region Name>>"
+region_name = raw_input("Enter the region to launch your instance in: ")
+ami_id = raw_input("Enter the AMI id: ")
+private_key = raw_input("Enter the Private Key: ")
+instance_type = raw_input("Enter the Instance Type: ")
+subnet_id = raw_input("Enter the Subnet ID: ")
+instance_name = raw_input("Enter the name you want to give to your instance: ")
 
 print "Establishing connection with AWS"
 
