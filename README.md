@@ -39,6 +39,8 @@
    
 2. cd ManagersSession
    
+   vi emails
+   
    Enter the emails one per line
    
    python account-create.py
