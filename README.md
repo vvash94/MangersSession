@@ -27,9 +27,5 @@
    
    cd ManagersSession
    
-   vi launch_ec2.py
-
-5. Fill in the varaiables marked with <<>>
-
-6. Run: python launch_ec2.py
+   python launch_ec2.py
    
